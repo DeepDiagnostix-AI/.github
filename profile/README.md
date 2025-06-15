@@ -1,25 +1,26 @@
 # DeepDiagnostix-AI 🧠⚡
+**Intelligent Agents for Debugging and Optimising Distributed Data and AI Platforms**
 
-**Intelligent Agents for Distributed Computing Operations**
+![image](https://github.com/user-attachments/assets/aa03284c-a071-400c-ba30-e89c0595e1ef)
 
-We're building the next generation of AI-powered debugging and optimization tools for distributed data processing frameworks. Our agentic AI systems understand the deep execution semantics of complex distributed workloads and provide expert-level insights through natural language interfaces.
+We're building the next generation of AI-powered debugging and optimisation tools for distributed data processing frameworks. Our agentic AI systems understand the deep execution semantics of complex distributed workloads and provide expert-level insights through natural language interfaces.
 
 ## 🎯 Mission
 
-Transform distributed system debugging from manual detective work into intelligent conversation. Our agents don't just monitor - they understand, reason, and provide actionable solutions for complex distributed computing challenges.
+Transform distributed system debugging from manual detective work into an intelligent conversation. Our agents don't just monitor - they understand, reason, and provide actionable solutions for complex distributed computing challenges.
 
 ## 🚀 Current Focus
 
 ### **SparkSense-AI** 🔥 *(Coming Soon)*
-We're currently finalizing our flagship project - an intelligent debugging and optimization agent for Apache Spark on Kubernetes.
+We're currently finalising our flagship project - an intelligent debugging and optimisation agent for Apache Spark on Kubernetes.
 
 **What makes it special:**
-- **Multi-agent architecture**: Specialized agents for debugging, optimization, and autonomous monitoring
+- **Multi-agent architecture**: Specialised agents for debugging, optimisation, and autonomous monitoring
 - **Domain expertise**: Fine-tuned LLMs trained on Spark source code and documentation  
 - **Natural language interface**: Ask "Why did my job fail?" and get expert-level answers
 - **Enterprise ready**: Production-grade architecture with modern protocol integration
 
-**Status**: Final testing and documentation in progress. **Follow this organization** to be notified when we release the open source repository.
+**Status**: Final testing and documentation in progress. **Follow this organisation** to be notified when we release the open source repository.
 
 ## 🔮 Future Vision
 
@@ -73,7 +74,7 @@ We're currently finalizing our flagship project - an intelligent debugging and o
 
 ## 🤝 Future Community
 
-We're planning a vibrant open source community around intelligent distributed system operations:
+We're planning a vibrant open source community around intelligent debugging and optimization for distributed data and AI platforms:
 
 - **🔧 Technical Contributors**: Core development, framework extensions, performance optimizations
 - **🧠 Domain Experts**: Failure pattern libraries, best practices, validation
@@ -86,6 +87,6 @@ All DeepDiagnostix-AI projects will be released under the Apache 2.0 License for
 
 ---
 
-*Building the future of intelligent distributed computing operations, one agent at a time.*
+*Building the future of intelligent debugging for distributed data frameworks, one agent at a time.*
 
 **🚀 Follow this organization for SparkSense-AI release announcements!**
