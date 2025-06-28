@@ -9,7 +9,23 @@ We're building the next generation of AI-powered debugging and optimisation tool
 
 Transform distributed system debugging from manual detective work into an intelligent conversation. Our agents don't just monitor - they understand, reason, and provide actionable solutions for complex distributed computing challenges.
 
-## 🚀 Current Focus
+## 🛠️ Available Tools
+
+### **Spark History Server MCP** 🔥 *[Available Now](https://github.com/DeepDiagnostix-AI/spark-history-server-mcp)*
+Connect AI agents to your Apache Spark infrastructure for intelligent job analysis and
+performance monitoring.
+
+**Key Features:**
+- **🤖 AI-Native Interface**: Query Spark data through natural language via Model Context Protocol
+- **📊 Performance Analysis**: Compare jobs, identify bottlenecks, and get optimization recommendations
+- **🔍 Historical Insights**: Deep dive into completed jobs with comprehensive metrics analysis
+- **⚡ Production Ready**: Kubernetes deployment with Helm charts, security best practices
+- **🔗 Framework Agnostic**: Works with LangChain, LlamaIndex, Claude Desktop, and custom AI agents
+
+**Perfect for:** Data engineers wanting to add Spark monitoring capabilities to their AI
+agents and workflows.
+
+## 🚀 Current Development
 
 ### **SparkSense-AI** 🔥 *(Coming Soon)*
 We're currently finalising our flagship project - an intelligent debugging and optimisation agent for Apache Spark on Kubernetes.
@@ -27,7 +43,6 @@ We're currently finalising our flagship project - an intelligent debugging and o
 **Planned Agent Family:**
 - **FlinkSense-AI** - Stream processing diagnostics and optimization
 - **RaySense-AI** - Distributed ML workload analysis and tuning  
-- **KafkaSense-AI** - Event streaming performance optimization
 
 *Each agent will share the same intelligent architecture but specialize in framework-specific expertise.*
 
